@@ -4,7 +4,7 @@ Turns Claude into a Formula 1 leaderboard and race analyst. Data comes from the 
 
 ## Install (Claude Code)
 ```
-/plugin marketplace add YOUR_GITHUB_USERNAME/f1-pitwall
+/plugin marketplace add Sputed/f1-pitwall
 /plugin install f1-pitwall@f1-pitwall-marketplace
 ```
 Requires Node 18+.
